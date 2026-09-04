@@ -1,0 +1,36 @@
+title: "mon site personnel"
+email: odilonnathanael@yahoo.com
+description: "Bienvenue sur mon site"
+baseurl: ""
+url: "https://odilonnathanael.github.io"
+
+# Thème
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+
+# Liens sociaux (remplacez vos identifiants)
+social:
+  - name: eLibrary
+    url: https://elibrary.ru/votre_id
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=votre_id
+  - name: ORCID
+    url: https://orcid.org/votre_id
+  - name: Mendeley
+    url: https://www.mendeley.com/profiles/votre_id
+  - name: ResearchGate
+    url: https://www.researchgate.net/profile/votre_id
+  - name: Academia.edu
+    url: https://independent.academia.edu/votre_id
+  - name: arXiv
+    url: https://arxiv.org/a/votre_id
+  - name: GitHub
+    url: https://github.com/odilonnathanael
