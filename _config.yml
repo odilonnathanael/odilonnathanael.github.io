@@ -1,6 +1,7 @@
 title: "mon site personnel"
 email: odilonnathanael@yahoo.com
 description: "Bienvenue sur mon site"
+avatar: "/assets/images/avatar.jpg"
 baseurl: ""
 url: "https://odilonnathanael.github.io"
 
