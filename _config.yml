@@ -35,3 +35,5 @@ social:
     url: https://arxiv.org/a/votre_id
   - name: GitHub
     url: https://github.com/odilonnathanael
+# Afficher les articles avec date future (pour test)
+future: true
